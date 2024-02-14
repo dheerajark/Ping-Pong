@@ -1,5 +1,4 @@
 
-markdown
 # Pong Game
 
 This is a simple Pong game implemented in Python using the Turtle graphics library.
@@ -25,7 +24,7 @@ This is a simple Pong game implemented in Python using the Turtle graphics libra
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/pong-game.git
+git clone https://github.com/dheerajark/Ping-Pong.git
 ```
 
 2. Navigate to the project directory:
